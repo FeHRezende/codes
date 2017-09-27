@@ -1,7 +1,7 @@
 <?php echo '<div id="my-timer" style = "text-align:right;">
-       <span style="color: #990002; font-size: 16px; width:100px; ">A página irá atualizar em <b id="show-time">4:00</b>
-       <b> minutos</b>.</span>        
-</div> '; ?>
+                  <span style="color: #990002; font-size: 16px; width:100px; ">A página irá atualizar em <b id="show-time">4:00</b>
+                  <b> minutos</b>.</span>        
+            </div> '; ?>
 
 <script type="text/javascript">
 
